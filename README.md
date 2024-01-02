@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=给时光以生命，给岁月以文明!&center=true&size=27"> </a> </h1>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
 </picture>
 

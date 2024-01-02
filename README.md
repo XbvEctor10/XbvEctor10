@@ -1,13 +1,12 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=给时光以生命，给岁月以文明!&center=true&size=27"> </a> </h1>
 
-### 您好，欢迎来到我的Github主页. 👋
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg"> -->
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
 </picture>
 
+### 您好，欢迎来到我的Github主页. 👋
 
 我是一个还在读本科的**⚡<span style="color:red">后端开发工程师</span>**，
 - 比较擅长的领域是**Spring**、**SpringMVC**、**SpringBoot**、**MyBatis/MyBatis-Plus**等主流web框架开发。

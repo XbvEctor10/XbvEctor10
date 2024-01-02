@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=XbvEctor10)
+
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);给时光以生命，给岁月以文明!&center=true&size=27"> </a> </h1>
+
 <!--
 **XbvEctor10/XbvEctor10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

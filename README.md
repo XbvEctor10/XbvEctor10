@@ -11,18 +11,11 @@
 - 熟悉常用的**设计模式**，如单例、代理、工厂、装饰模式等。
 - 掌握基本的**计算机网络**、**操作系统**、**数据结构**、**Linux命令**知识，有一定水平的**算法**能力。
 
-<!-- <picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg"> -->
-<!-- <img alt="智子" src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg"> -->
-<!--   <img alt="钢铁侠" src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/403163.jpg"> -->
-</picture> -->
+🔭我正在利用2024年认真学习先进的前后端开发技术，以提高我的开发水平。
 
-我正在利用2024年认真学习先进的前后端开发技术，以提高我的开发水平。
+🌱我目前正在努力刷OI算法题，备考一些入门的算法竞赛；同时也在深入学习和巩固上述框架的原理，希望在近期完成一个较为完善的前后端分离的微服务项目，并熟练掌握项目开发中的源码，架构等。
 
-我目前正在努力刷OI算法题，备考一些入门的算法竞赛；同时也在深入学习和巩固上述框架的原理，希望在近期完成一个较为完善的前后端分离的微服务项目，并熟练掌握项目开发中的源码，架构等。
-
-您可以通过我的邮箱联系我：<a href="mailto:binb_xu@yeah.net">binb_xu@yeah.net</a>。
+📫您可以通过我的邮箱联系我：<a href="mailto:binb_xu@yeah.net">binb_xu@yeah.net</a>。
 
 谢谢！
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=XbvEctor10) -->

@@ -14,8 +14,8 @@
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg"> -->
-<!--   <img alt="智子" src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">  -->
-  <img alt="钢铁侠" src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/403163.jpg">
+    <img alt="智子" src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/4k_f4b1985ba8076453.jpg">
+<!--   <img alt="钢铁侠" src="https://web-hmleadnews0907.oss-cn-beijing.aliyuncs.com/403163.jpg"> -->
 </picture>
 
 我正在利用2024年认真学习先进的前后端开发技术，以提高我的开发水平。
